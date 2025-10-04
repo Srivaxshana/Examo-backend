@@ -6,7 +6,7 @@ It provides secure and scalable RESTful APIs for authentication, exam management
 ---
 
 ## 🚀 Features
-- 🔐 Secure authentication (JWT or session-based)  
+- 🔐 Secure authentication 
 - 🧑‍🏫 Admin APIs to manage exams, questions, and results  
 - 🧑‍🎓 Student APIs for exam participation  
 - 🗄️ MySQL integration for data storage  

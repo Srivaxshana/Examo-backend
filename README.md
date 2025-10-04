@@ -1,7 +1,7 @@
 # Examo Backend  
 
-The **backend** of Examo – a Digital Exam Platform built using **Spring Boot** and **MySQL**.  
-It provides APIs for user authentication, exam creation, question management, and result handling.  
+**Examo Backend** is the server-side of **Examo – a Digital Exam Platform**, developed as my **4th-semester project for the Web Application Development module**.  
+It provides secure and scalable RESTful APIs for authentication, exam management, question handling, and result processing.   
 
 ---
 

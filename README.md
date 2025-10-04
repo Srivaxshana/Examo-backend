@@ -29,3 +29,19 @@ It provides APIs for user authentication, exam creation, question management, an
 ```bash
 git clone https://github.com/Srivaxshana/Examo-backend.git
 cd examo-backend
+
+```
+### Configure Database
+Edit the src/main/resources/application.properties file:
+
+spring.datasource.url=jdbc:mysql://localhost:3306/examo_db
+spring.datasource.username=root
+spring.datasource.password=yourpassword
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+### Build and Run Application
+```bash
+mvn spring-boot:run
+

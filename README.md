@@ -31,7 +31,7 @@ git clone https://github.com/Srivaxshana/Examo-backend.git
 cd examo-backend
 
 ```
-### Configure Database
+### 2️⃣ Configure Database
 Edit the src/main/resources/application.properties file:
 ```bash
 spring.datasource.url=jdbc:mysql://localhost:3306/examo_db
@@ -41,7 +41,7 @@ spring.datasource.password=yourpassword
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
-### Build and Run Application
+### 3️⃣ Build and Run Application
 ```bash
 mvn spring-boot:run
 
